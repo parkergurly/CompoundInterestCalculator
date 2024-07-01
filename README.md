@@ -1,0 +1,2 @@
+# CompoundInterestCalculator
+ Calculates Compound Interest
